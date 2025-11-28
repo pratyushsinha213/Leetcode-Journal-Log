@@ -89,6 +89,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0830-largest-triangle-area](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1089-duplicate-zeros](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1089-duplicate-zeros) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -246,6 +247,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0011-container-with-most-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0611-valid-triangle-number) |
+| [1089-duplicate-zeros](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1089-duplicate-zeros) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Dynamic Programming
