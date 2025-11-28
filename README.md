@@ -95,6 +95,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1262-greatest-sum-divisible-by-three](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -214,6 +215,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [0417-pacific-atlantic-water-flow](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
