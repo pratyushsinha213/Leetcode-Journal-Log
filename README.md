@@ -144,6 +144,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1636-number-of-substrings-with-only-1s](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1952-three-divisors](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1952-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2288-count-operations-to-obtain-zero) |
@@ -166,6 +167,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1952-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -361,6 +363,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1952-three-divisors](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1952-three-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/CodeByVish/Leetcode-Journal/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
