@@ -37,6 +37,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1015-smallest-integer-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1399-count-largest-group](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1399-count-largest-group) |
 | [1612-avoid-flood-in-the-city](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/CodeByVish/Leetcode-Journal/tree/master/2169-simple-bank-system) |
@@ -145,6 +146,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 | [1015-smallest-integer-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1018-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1399-count-largest-group](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1399-count-largest-group) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1642-water-bottles) |
