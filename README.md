@@ -32,6 +32,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0166-fraction-to-recurring-decimal) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/CodeByVish/Leetcode-Journal/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -76,6 +77,7 @@ This repo is **auto-synced** from my LeetCode submissions via **LeetHub v2**. Ac
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeByVish/Leetcode-Journal/tree/master/0407-trapping-rain-water-ii) |
