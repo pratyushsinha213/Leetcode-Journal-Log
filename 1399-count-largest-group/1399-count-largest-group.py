@@ -10,7 +10,6 @@ class Solution:
             else:
                 counter[add].append(i)
 
-        result = [arr for arr in counter.values()]
-        size = [len(arr) for arr in result]
+        size = [len(arr) for arr in counter.values()]
         
         return size.count(max(size))
