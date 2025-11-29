@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1507-reformat-date) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
