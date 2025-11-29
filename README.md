@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
