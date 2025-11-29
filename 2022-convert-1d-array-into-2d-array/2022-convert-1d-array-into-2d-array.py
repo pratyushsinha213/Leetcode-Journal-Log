@@ -8,7 +8,6 @@ class Solution:
         idx = 0
         for i in range(m):
             for j in range(n):
-                print(i, j, idx)
                 two_dim_arr[i][j] = original[idx]
                 idx += 1
         
