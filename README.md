@@ -71,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0185-department-top-three-salaries) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
