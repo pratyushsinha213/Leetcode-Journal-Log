@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0596-classes-with-at-least-5-students) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Greedy
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
