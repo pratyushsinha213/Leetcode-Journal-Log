@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2315-count-asterisks) |
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
+| [3019-number-of-changing-keys](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3019-number-of-changing-keys) |
 ## Math
 |  |
 | ------- |
