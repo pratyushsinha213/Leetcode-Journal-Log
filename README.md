@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3099-harshad-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3099-harshad-number) |
 ## Matrix
 |  |
 | ------- |
