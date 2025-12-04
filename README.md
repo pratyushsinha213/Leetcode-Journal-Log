@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
