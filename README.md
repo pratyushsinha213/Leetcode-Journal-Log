@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2315-count-asterisks) |
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
 | [3019-number-of-changing-keys](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3019-number-of-changing-keys) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Math
 |  |
 | ------- |
