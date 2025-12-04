@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
 | [3019-number-of-changing-keys](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3019-number-of-changing-keys) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3210-find-the-encrypted-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3210-find-the-encrypted-string) |
 ## Math
 |  |
 | ------- |
