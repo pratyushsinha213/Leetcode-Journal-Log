@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1837-sum-of-digits-in-base-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
