@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
