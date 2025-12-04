@@ -2,8 +2,8 @@ class Solution:
     def distinctAverages(self, nums: List[int]) -> int:
         avg = set()
 
+        nums.sort()
         while nums:
-            nums.sort()
 
             minn = nums[0]
             maxx = nums[-1]
