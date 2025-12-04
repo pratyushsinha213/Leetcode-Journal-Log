@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Matrix
 |  |
 | ------- |
