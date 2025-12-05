@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3270-find-the-key-of-the-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3270-find-the-key-of-the-numbers) |
 ## Matrix
 |  |
 | ------- |
