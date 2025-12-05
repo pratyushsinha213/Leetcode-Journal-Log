@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3248-snake-in-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
