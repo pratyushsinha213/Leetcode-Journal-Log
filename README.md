@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -167,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
