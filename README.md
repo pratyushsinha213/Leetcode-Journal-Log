@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
