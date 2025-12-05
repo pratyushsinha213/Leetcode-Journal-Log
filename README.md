@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
