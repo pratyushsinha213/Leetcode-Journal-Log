@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3492-maximum-containers-on-a-ship](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3492-maximum-containers-on-a-ship) |
+| [3516-find-closest-person](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3516-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
