@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
