@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Matrix
 |  |
 | ------- |
