@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3492-maximum-containers-on-a-ship](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3492-maximum-containers-on-a-ship) |
 ## Matrix
 |  |
 | ------- |
