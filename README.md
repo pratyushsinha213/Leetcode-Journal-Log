@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
