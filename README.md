@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3707-equal-score-substrings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3707-equal-score-substrings) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3707-equal-score-substrings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3707-equal-score-substrings) |
 ## Counting
 |  |
 | ------- |
