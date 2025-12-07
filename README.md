@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3701-compute-alternating-sum) |
 ## Database
 |  |
 | ------- |
