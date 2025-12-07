@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
