@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
