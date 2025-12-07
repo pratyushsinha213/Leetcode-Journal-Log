@@ -1,9 +1,9 @@
 class Solution:
     def earliestTime(self, tasks: List[List[int]]) -> int:
-        least = float('inf')
+        least = 201
 
         for task in tasks:
-            time = sum(task)
+            time = task[0] + task[1]
             print(time)
             if time < least:
                 least = time
