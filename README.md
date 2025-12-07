@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3697-compute-decimal-representation) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Database
 |  |
 | ------- |
