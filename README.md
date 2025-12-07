@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3701-compute-alternating-sum) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
