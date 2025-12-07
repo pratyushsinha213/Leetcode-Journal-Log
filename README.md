@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -243,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
