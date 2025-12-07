@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
