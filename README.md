@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Sorting
 |  |
 | ------- |
