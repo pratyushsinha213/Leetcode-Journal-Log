@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [0728-self-dividing-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
