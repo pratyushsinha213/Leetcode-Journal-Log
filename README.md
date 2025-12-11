@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1550-three-consecutive-odds) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
