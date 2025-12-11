@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1078-occurrences-after-bigram) |
+| [1108-defanging-an-ip-address](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1108-defanging-an-ip-address) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
