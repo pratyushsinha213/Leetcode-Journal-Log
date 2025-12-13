@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0860-lemonade-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
