@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0061-rotate-list) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
