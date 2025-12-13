@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
