@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -309,8 +312,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
