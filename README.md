@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0860-lemonade-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Two Pointers
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
