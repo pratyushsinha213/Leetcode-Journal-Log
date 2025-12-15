@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
+| [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1108-defanging-an-ip-address) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
