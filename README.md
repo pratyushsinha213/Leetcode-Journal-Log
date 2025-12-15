@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0223-rectangle-area) |
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
