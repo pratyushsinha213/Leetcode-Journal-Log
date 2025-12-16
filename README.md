@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
