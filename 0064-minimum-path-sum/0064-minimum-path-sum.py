@@ -3,8 +3,7 @@ class Solution:
         m, n = len(grid), len(grid[0])
         if m == 1 and n == 1:
             return grid[-1][-1]
-
-
+            
         dp = [[0] * n for _ in range(m)]
         dp[0][0] = grid[0][0]
 
