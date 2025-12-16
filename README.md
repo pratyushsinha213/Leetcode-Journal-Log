@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0223-rectangle-area) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0062-unique-paths) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
