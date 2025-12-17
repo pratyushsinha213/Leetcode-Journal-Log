@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0384-shuffle-an-array) |
 | [0860-lemonade-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0860-lemonade-change) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0397-integer-replacement) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
