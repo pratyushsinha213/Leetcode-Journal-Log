@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3248-snake-in-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3248-snake-in-matrix) |
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
 | ------- |
