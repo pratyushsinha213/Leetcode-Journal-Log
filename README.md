@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
+| [1291-sequential-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1925-count-square-sum-triples) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
