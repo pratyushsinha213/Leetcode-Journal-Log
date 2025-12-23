@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0398-random-pick-index) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
+| [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1925-count-square-sum-triples](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1925-count-square-sum-triples) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
