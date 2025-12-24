@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1925-count-square-sum-triples) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1925-count-square-sum-triples) |
 | [2437-number-of-valid-clock-times](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2437-number-of-valid-clock-times) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
