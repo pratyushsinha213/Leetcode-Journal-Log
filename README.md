@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2679-sum-in-a-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-number-of-valid-clock-times](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2437-number-of-valid-clock-times) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
