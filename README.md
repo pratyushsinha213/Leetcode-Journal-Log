@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0345-reverse-vowels-of-a-string) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1078-occurrences-after-bigram) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0345-reverse-vowels-of-a-string) |
 | [0845-longest-mountain-in-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
