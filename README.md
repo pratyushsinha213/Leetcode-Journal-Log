@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3127-make-a-square-with-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2679-sum-in-a-matrix) |
+| [3127-make-a-square-with-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Prefix Sum
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
+| [3127-make-a-square-with-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
