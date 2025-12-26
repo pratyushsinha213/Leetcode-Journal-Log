@@ -1,0 +1,19 @@
+class SmallestInfiniteSet:
+
+    def __init__(self):
+        self.list = [i for i in range(1, 1001)]
+        heapify(self.list)
+
+    def popSmallest(self) -> int:
+        return heappop(self.list) if len(self.list) != 0 else -1
+
+    def addBack(self, num: int) -> None:
+        if num in set(self.list):
+            return
+        heappush(self.list, num)
+
+
+# Your SmallestInfiniteSet object will be instantiated and called as such:
+# obj = SmallestInfiniteSet()
+# param_1 = obj.popSmallest()
+# obj.addBack(num)
