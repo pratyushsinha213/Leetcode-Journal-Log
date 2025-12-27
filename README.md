@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2315-count-asterisks) |
 | [2437-number-of-valid-clock-times](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2437-number-of-valid-clock-times) |
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3019-number-of-changing-keys](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3019-number-of-changing-keys) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3210-find-the-encrypted-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3210-find-the-encrypted-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3707-equal-score-substrings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3707-equal-score-substrings) |
 ## Counting
