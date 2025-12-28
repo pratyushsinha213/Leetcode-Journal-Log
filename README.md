@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 ## Enumeration
