@@ -10,14 +10,15 @@ class Solution:
 
         # return count
 
-        arr = []
-
-        for row in grid:
-            arr.extend(row)
+        m, n = len(grid), len(grid[0])
+        i, j = 0, n-1
 
         count = 0
-        for elem in arr:
-            if elem < 0:
-                count += 1
-        
+        while j >= 0 and i < m:
+            if grid[i][j] < 0:
+                count += (m-i)
+                j -= 1
+            else:
+                i += 1
+
         return count
