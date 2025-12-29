@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2315-count-asterisks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2315-count-asterisks) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2437-number-of-valid-clock-times](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2437-number-of-valid-clock-times) |
 | [2451-odd-string-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2451-odd-string-difference) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2483-minimum-penalty-for-a-shop) |
