@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0384-shuffle-an-array) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
+| [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0398-random-pick-index) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
