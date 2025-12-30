@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2126-destroying-asteroids](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2126-destroying-asteroids) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2336-smallest-number-in-infinite-set) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
