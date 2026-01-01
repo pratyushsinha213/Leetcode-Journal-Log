@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0229-majority-element-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0078-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
 ## Combinatorics
 |  |
