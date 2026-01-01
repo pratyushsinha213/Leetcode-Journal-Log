@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0064-minimum-path-sum) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0148-sort-list) |
