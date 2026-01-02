@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0372-super-pow) |
 | [0384-shuffle-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
