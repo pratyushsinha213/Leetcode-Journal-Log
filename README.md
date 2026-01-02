@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
