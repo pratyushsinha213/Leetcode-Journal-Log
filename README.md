@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0610-triangle-judgement) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
