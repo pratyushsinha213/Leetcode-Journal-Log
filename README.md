@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
