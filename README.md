@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0322-coin-change) |
+| [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
