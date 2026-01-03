@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1486-xor-operation-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3370-smallest-number-with-all-set-bits) |
