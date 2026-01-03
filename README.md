@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1550-three-consecutive-odds) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2126-destroying-asteroids) |
