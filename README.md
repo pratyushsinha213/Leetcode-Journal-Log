@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1640-check-array-formation-through-concatenation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1640-check-array-formation-through-concatenation) |
+| [1672-richest-customer-wealth](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1816-truncate-sentence) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
