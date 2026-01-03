@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1603-design-parking-system](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1603-design-parking-system](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0707-design-linked-list) |
+| [1603-design-parking-system](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1603-design-parking-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
