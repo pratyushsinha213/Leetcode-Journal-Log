@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1436-destination-city](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1436-destination-city](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1748-sum-of-unique-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1436-destination-city](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1528-shuffle-string) |
