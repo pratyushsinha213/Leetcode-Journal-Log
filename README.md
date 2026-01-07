@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0610-triangle-judgement) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1873-calculate-special-bonus](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1873-calculate-special-bonus) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
 |  |
