@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
