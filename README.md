@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1859-sorting-the-sentence) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1603-design-parking-system](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2500-delete-greatest-value-in-each-row) |
