@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1975-maximum-matrix-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2465-number-of-distinct-averages](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2465-number-of-distinct-averages) |
