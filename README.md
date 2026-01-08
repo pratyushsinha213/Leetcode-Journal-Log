@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1390-four-divisors) |
 | [1436-destination-city](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1436-destination-city) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1480-running-sum-of-1d-array) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0397-integer-replacement) |
 | [0845-longest-mountain-in-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0845-longest-mountain-in-array) |
 | [1137-n-th-tribonacci-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1137-n-th-tribonacci-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
 | ------- |
