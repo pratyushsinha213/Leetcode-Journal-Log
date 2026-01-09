@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0970-powerful-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0970-powerful-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0322-coin-change) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 ## Reservoir Sampling
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0145-binary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0965-univalued-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1339-maximum-product-of-splitted-binary-tree) |
