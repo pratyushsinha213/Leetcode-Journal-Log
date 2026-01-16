@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2974-minimum-number-game) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2951-find-the-peaks) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3127-make-a-square-with-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3127-make-a-square-with-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3745-maximize-expression-of-three-elements) |
