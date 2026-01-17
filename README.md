@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-prime-in-diagonal](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2614-prime-in-diagonal) |
 | [3024-type-of-triangle](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3024-type-of-triangle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0223-rectangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Brainteaser
 |  |
 | ------- |
