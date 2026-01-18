@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1895-largest-magic-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1975-maximum-matrix-sum) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1672-richest-customer-wealth) |
+| [1895-largest-magic-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2352-equal-row-and-column-pairs) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1732-find-the-highest-altitude) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1895-largest-magic-square](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3432-count-partitions-with-even-sum-difference) |
