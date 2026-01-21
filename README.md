@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0345-reverse-vowels-of-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0223-rectangle-area) |
 | [0319-bulb-switcher](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0319-bulb-switcher) |
