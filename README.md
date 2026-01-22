@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3453-separate-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
+| [3484-design-spreadsheet](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3484-design-spreadsheet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3484-design-spreadsheet](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3484-design-spreadsheet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3668-restore-finishing-order) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3280-convert-date-to-binary) |
+| [3484-design-spreadsheet](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3707-equal-score-substrings](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3707-equal-score-substrings) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2679-sum-in-a-matrix) |
 | [3127-make-a-square-with-the-same-color](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3484-design-spreadsheet](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3484-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/1603-design-parking-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2336-smallest-number-in-infinite-set) |
+| [3484-design-spreadsheet](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3484-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
