@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3453-separate-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3668-restore-finishing-order) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3668-restore-finishing-order) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2679-sum-in-a-matrix](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2974-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2336-smallest-number-in-infinite-set) |
 | [3477-fruits-into-baskets-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -540,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -728,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/0374-guess-number-higher-or-lower) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/pratyushsinha213/Leetcode-Journal-Log/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
